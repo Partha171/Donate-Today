@@ -405,3 +405,24 @@ hr {
     border-radius: 5px;
     box-shadow: 0px 12px 24px rgba(105, 96, 96, 0.24);
 }
+
+footer {
+    background-color: #0b0d17;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3.2rem;
+}
+
+footer h1 {
+    color: #ff5959;
+    font-family: "Lobster", cursive;
+}
+
+footer p {
+    color: rgb(190, 190, 190);
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 0.8rem;
+}
